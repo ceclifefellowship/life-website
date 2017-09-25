@@ -1,5 +1,5 @@
 # LIFE Website
-The official homepage of [CEC LIFE Fellowship](cec-sd.org/life/lifefellowship/) - college ministry of [Chinese Evangelical Church](cec-sd.org).
+The official homepage of [CEC LIFE Fellowship](http://cec-sd.org/life/lifefellowship/) - college ministry of [Chinese Evangelical Church](cec-sd.org).
 
 ## FAQ
 #### How do I use git
